@@ -14,5 +14,6 @@
     <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
     <property name="file.colors.enable.non.project" value="Yellow" />
     <property name="Non-Project Files" value="Yellow" />
+    <property name="export.settings.path" value="$APPLICATION_CONFIG_DIR$/settings.jar" />
   </component>
 </application>

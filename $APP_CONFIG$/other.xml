@@ -21,6 +21,9 @@
     <entry key="ide.scratch.enabled" value="false" />
     <entry key="ide.firstStartup" value="false" />
   </component>
+  <component name="TemplateSettings">
+    <defaultShortcut shortcut="TAB" />
+  </component>
   <component name="TodoConfiguration">
     <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\btodo\b.*">
       <option name="FOREGROUND" value="a8c023" />
