@@ -1,0 +1,10 @@
+<application>
+  <component name="PluginManagerConfigurable">
+    <option name="UPDATE_IN_BACKGROUND" value="true" />
+    <available-proportions>
+      <option name="proportions">
+        <list />
+      </option>
+    </available-proportions>
+  </component>
+</application>

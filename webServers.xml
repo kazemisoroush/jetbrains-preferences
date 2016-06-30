@@ -1,0 +1,22 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b8795ae5-229c-483e-9e67-12bfe9719cfe" name="haftshahr" url="http://ftp.haftshahraria.com">
+        <fileTransfer host="ftp.haftshahraria.com" port="21" password="dff9dfc3dfc4dfcbdfc1dfcbdfd0dfcfdfc7dfc3dff5df9bdf99df9cdf93" username="soroush@haftshahraria.com">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="baa6c6a4-b06e-4f7d-b88d-fbffb3163ad5" name="mahandid" url="http://mahandidar.ir">
+        <fileTransfer host="37.187.148.144" port="21" rootFolder="/domains/mahandidar.ir/public_html" password="dff9dfc5dfd8dfc5dfdfdfd9dfc2dfc1dfcbdfd0dfcfdfc7dfc3dff5df8bdf89df89df93" username="mahandid">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
