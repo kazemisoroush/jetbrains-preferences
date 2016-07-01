@@ -16,6 +16,9 @@
     <keyboard-shortcut first-keystroke="UP" />
   </action>
   <action id="FileChooser.TogglePathShowing" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta T" />
+  </action>
   <action id="FindInPath" />
   <action id="Git.Push">
     <keyboard-shortcut first-keystroke="control P" />
@@ -49,6 +52,7 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="control alt UP" />
   </action>
+  <action id="Vcs.UpdateProject" />
   <action id="com.vladsch.idea.multimarkdown.editor.actions.editorLayout.ToggleSplitLayoutChangeAction" />
   <action id="hg4idea.push" />
 </keymap>

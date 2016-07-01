@@ -55,7 +55,7 @@
   <component name="FileEditorProviderManager">
     <option name="selectedProviders">
       <map>
-        <entry key="split-provider[text-editor;MultiMarkdownPreviewEditor],MultiMarkdownFxPreviewEditor" value="MultiMarkdownFxPreviewEditor" />
+        <entry key="split-provider[text-editor;MultiMarkdownPreviewEditor],MultiMarkdownFxPreviewEditor" value="split-provider[text-editor;MultiMarkdownPreviewEditor]" />
       </map>
     </option>
   </component>
