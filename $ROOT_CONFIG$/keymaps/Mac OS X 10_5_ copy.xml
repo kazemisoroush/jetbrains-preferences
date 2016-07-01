@@ -1,12 +1,33 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ChangesView.AddUnversioned">
+    <keyboard-shortcut first-keystroke="control A" />
+  </action>
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="alt ENTER" />
   </action>
   <action id="Console.TableResult.MaximizeEditingCell">
     <keyboard-shortcut first-keystroke="alt ENTER" />
   </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="HOME" />
+    <keyboard-shortcut first-keystroke="meta LEFT" />
+  </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="UP" />
+  </action>
+  <action id="FileChooser.TogglePathShowing" />
   <action id="FindInPath" />
+  <action id="Git.Push">
+    <keyboard-shortcut first-keystroke="control P" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta P" />
+  </action>
   <action id="GotoNextError" />
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="shift meta P" />
+  </action>
+  <action id="ParameterInfo" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift meta F" />
   </action>
@@ -28,4 +49,6 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="control alt UP" />
   </action>
+  <action id="com.vladsch.idea.multimarkdown.editor.actions.editorLayout.ToggleSplitLayoutChangeAction" />
+  <action id="hg4idea.push" />
 </keymap>
