@@ -108,7 +108,9 @@
     <recent_templates>
       <option name="RECENT_TEMPLATES">
         <value>
-          <list size="0" />
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="Python Class" />
+          </list>
         </value>
       </option>
     </recent_templates>
