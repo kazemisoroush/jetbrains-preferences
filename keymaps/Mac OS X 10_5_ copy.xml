@@ -2,11 +2,18 @@
   <action id="ChangesView.AddUnversioned">
     <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
+  <action id="ChangesView.Commit">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
   <action id="Console.TableResult.MaximizeEditingCell">
     <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="meta right" />
   </action>
   <action id="EditorLineStart">
     <keyboard-shortcut first-keystroke="home" />
@@ -14,6 +21,9 @@
   </action>
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
+  </action>
+  <action id="ExportSettings">
+    <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
@@ -51,6 +61,9 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="Vcs.UpdateProject" />
   <action id="com.vladsch.idea.multimarkdown.editor.actions.editorLayout.ToggleSplitLayoutChangeAction" />
