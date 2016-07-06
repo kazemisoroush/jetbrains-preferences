@@ -1,4 +1,11 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="meta right" />
+  </action>
+  <action id="ExportSettings">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
   <action id="FileChooser.TogglePathShowing" />
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta p" />
