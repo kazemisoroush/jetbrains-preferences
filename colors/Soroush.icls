@@ -648,6 +648,17 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="IGNORE.HEADER">
+      <value>
+        <option name="FOREGROUND" value="ecfaeb" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="IGNORE.SECTION">
+      <value>
+        <option name="FOREGROUND" value="ecfaeb" />
+      </value>
+    </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="b389c5" />
@@ -973,6 +984,12 @@
     <option name="MARKDOWN_NAVIGATOR.CODE">
       <value>
         <option name="FOREGROUND" value="6cff9f" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.DEFINITION_TERM">
+      <value>
+        <option name="FOREGROUND" value="eee6ff" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -1965,6 +1982,12 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.HEADER_SETEXT_MARKER">
+      <value>
+        <option name="FOREGROUND" value="2e54ff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD">
       <value>
         <option name="FONT_TYPE" value="1" />
@@ -2506,6 +2529,23 @@
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.HRULE">
+      <value>
+        <option name="FOREGROUND" value="2e54ff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.HTML_ENTITY">
+      <value>
+        <option name="FOREGROUND" value="79da" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.INLINE_HTML">
+      <value>
+        <option name="FOREGROUND" value="dbebff" />
+      </value>
+    </option>
     <option name="MARKDOWN_NAVIGATOR.ITALIC_CODE_TEXT">
       <value>
         <option name="FOREGROUND" value="6cff9f" />
@@ -2566,6 +2606,22 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.LINE_BREAK_SPACES">
+      <value>
+        <option name="FOREGROUND" value="bcffcf" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.MAIL_LINK">
+      <value>
+        <option name="FOREGROUND" value="9150c8" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.QUOTED_TEXT">
+      <value>
+        <option name="FOREGROUND" value="ccffd7" />
+      </value>
+    </option>
     <option name="MARKDOWN_NAVIGATOR.QUOTED_TEXT_HTML_ENTITY">
       <value>
         <option name="FOREGROUND" value="ff" />
@@ -2588,6 +2644,23 @@
       <value>
         <option name="BACKGROUND" value="c8d7d9" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.SMARTS">
+      <value>
+        <option name="FOREGROUND" value="d88dff" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.SPECIAL_TEXT">
+      <value>
+        <option name="FOREGROUND" value="f6d5ff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.STRIKETHROUGH">
+      <value>
+        <option name="FOREGROUND" value="d40047" />
+        <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.STRIKETHROUGH_BOLD_CODE_TEXT">
@@ -2873,6 +2946,9 @@
         <option name="EFFECT_COLOR" value="d40047" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN">
+      <value />
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_ANCHOR">
       <value>
@@ -3830,6 +3906,9 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD">
+      <value />
+    </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_ANCHOR">
       <value>
         <option name="BACKGROUND" value="c3ecf9" />
@@ -4785,6 +4864,9 @@
         <option name="BACKGROUND" value="cdffe9" />
         <option name="FONT_TYPE" value="1" />
       </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN">
+      <value />
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_ANCHOR">
       <value>
@@ -6614,6 +6696,11 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN">
+      <value>
+        <option name="FOREGROUND" value="d8f0d5" />
+      </value>
+    </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_ANCHOR">
       <value>
         <option name="BACKGROUND" value="bddfd7" />
@@ -7568,6 +7655,11 @@
       <value>
         <option name="BACKGROUND" value="c6f1c9" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD">
+      <value>
+        <option name="FOREGROUND" value="d7f5ee" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_ANCHOR">
@@ -8526,6 +8618,11 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN">
+      <value>
+        <option name="FOREGROUND" value="f5efdf" />
+      </value>
+    </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_ANCHOR">
       <value>
         <option name="BACKGROUND" value="d5dee1" />
@@ -9480,6 +9577,11 @@
       <value>
         <option name="BACKGROUND" value="dff0d2" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD">
+      <value>
+        <option name="FOREGROUND" value="f5f5f5" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_ANCHOR">
@@ -10438,10 +10540,58 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_ROW_EVEN">
+      <value>
+        <option name="FOREGROUND" value="4f0885" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_ROW_ODD">
+      <value>
+        <option name="FOREGROUND" value="4f0885" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_ROW_EVEN">
+      <value>
+        <option name="FOREGROUND" value="4f0885" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_SEPARATOR">
+      <value>
+        <option name="FOREGROUND" value="690eb3" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_SEP_COLUMN_EVEN">
+      <value>
+        <option name="FOREGROUND" value="690eb3" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_SEP_COLUMN_ODD">
+      <value>
+        <option name="FOREGROUND" value="690eb3" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="MARKDOWN_NAVIGATOR.VERBATIM">
       <value>
         <option name="FOREGROUND" value="6cff9f" />
-        <option name="BACKGROUND" value="464646" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.WIKI_LINK_REF">
+      <value>
+        <option name="FOREGROUND" value="2e54ff" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.WIKI_LINK_TEXT">
+      <value>
+        <option name="FOREGROUND" value="e6ffed" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
@@ -10597,7 +10747,7 @@
     </option>
     <option name="PY.CLASS_DEFINITION">
       <value>
-        <option name="FOREGROUND" value="898989" />
+        <option name="FOREGROUND" value="77da62" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -10612,9 +10762,19 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="PY.PREDEFINED_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="ab4aa7" />
+      </value>
+    </option>
     <option name="PY.PREDEFINED_USAGE">
       <value>
         <option name="FOREGROUND" value="d142ab" />
+      </value>
+    </option>
+    <option name="PY.SELF_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="426f94" />
       </value>
     </option>
     <option name="REGEXP.BRACES">
