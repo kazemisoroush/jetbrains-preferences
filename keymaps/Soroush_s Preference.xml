@@ -1,4 +1,4 @@
-<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+<keymap version="1" name="Soroush's Preference" parent="Mac OS X 10.5+">
   <action id="ChangesView.AddUnversioned">
     <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
@@ -40,6 +40,10 @@
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
+  <action id="ImplementMethods" />
+  <action id="ImportSettings">
+    <keyboard-shortcut first-keystroke="ctrl i" />
+  </action>
   <action id="ParameterInfo" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift meta f" />
@@ -67,5 +71,6 @@
   </action>
   <action id="Vcs.UpdateProject" />
   <action id="com.vladsch.idea.multimarkdown.editor.actions.editorLayout.ToggleSplitLayoutChangeAction" />
+  <action id="com.vladsch.idea.multimarkdown.editor.actions.styling.ToggleItalicAction" />
   <action id="hg4idea.push" />
 </keymap>
