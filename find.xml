@@ -4,10 +4,12 @@
     <option name="customScope" value="File '/Users/Sara/Code/whopaid/database/migrations/2014_10_12_100000_create_password_resets_table.php'" />
     <option name="defaultScopeName" value="File '/Users/Sara/Code/whopaid/database/migrations/2014_10_12_100000_create_password_resets_table.php'" />
     <option name="localCaseSensitive" value="true" />
+    <option name="localWholeWordsOnly" value="true" />
     <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File '/Users/Sara/Code/whopaid/database/migrations/2014_10_12_100000_create_password_resets_table.php'" />
     <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
