@@ -2675,9 +2675,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN">
-      <value />
-    </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_ANCHOR">
       <value>
         <option name="BACKGROUND" value="dbebff" />
@@ -3469,9 +3466,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD">
-      <value />
-    </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_ANCHOR">
       <value>
         <option name="BACKGROUND" value="dbebff" />
@@ -4262,9 +4256,6 @@
         <option name="FOREGROUND" value="e6ffed" />
         <option name="FONT_TYPE" value="1" />
       </value>
-    </option>
-    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN">
-      <value />
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_ANCHOR">
       <value>
@@ -9320,6 +9311,9 @@
       <value>
         <option name="FOREGROUND" value="ab5451" />
       </value>
+    </option>
+    <option name="PHP_SCRIPTING_BACKGROUND">
+      <value />
     </option>
     <option name="PHP_VAR">
       <value>

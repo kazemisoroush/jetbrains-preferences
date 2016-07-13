@@ -1,15 +1,7 @@
 <code_scheme name="Soroush's Preference">
-  <MarkdownNavigatorCodeStyleSettings>
-    <option name="TABLE_LEFT_ALIGN_MARKER" value="0" />
+  <MultiMarkdownCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
-  </MarkdownNavigatorCodeStyleSettings>
-  <Python>
-    <option name="SPACE_WITHIN_BRACES" value="true" />
-    <option name="SPACE_AROUND_EQ_IN_NAMED_PARAMETER" value="true" />
-    <option name="SPACE_AROUND_EQ_IN_KEYWORD_ARGUMENT" value="true" />
-    <option name="DICT_ALIGNMENT" value="1" />
-    <option name="DICT_NEW_LINE_AFTER_LEFT_BRACE" value="true" />
-  </Python>
+  </MultiMarkdownCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
