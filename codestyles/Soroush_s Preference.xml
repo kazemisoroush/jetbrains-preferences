@@ -2,6 +2,11 @@
   <MultiMarkdownCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MultiMarkdownCodeStyleSettings>
+  <PHPCodeStyleSettings>
+    <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
+    <option name="ALIGN_ASSIGNMENTS" value="true" />
+    <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
+  </PHPCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
@@ -21,6 +26,11 @@
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
     </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="PHP">
+    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
+    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+    <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
   </codeStyleSettings>
   <codeStyleSettings language="SASS">
     <indentOptions>
