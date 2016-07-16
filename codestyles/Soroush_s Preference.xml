@@ -1,15 +1,15 @@
 <code_scheme name="Soroush's Preference">
-  <MarkdownNavigatorCodeStyleSettings>
-    <option name="TABLE_LEFT_ALIGN_MARKER" value="0" />
+  <MultiMarkdownCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
-  </MarkdownNavigatorCodeStyleSettings>
-  <Python>
-    <option name="SPACE_WITHIN_BRACES" value="true" />
-    <option name="SPACE_AROUND_EQ_IN_NAMED_PARAMETER" value="true" />
-    <option name="SPACE_AROUND_EQ_IN_KEYWORD_ARGUMENT" value="true" />
-    <option name="DICT_ALIGNMENT" value="1" />
-    <option name="DICT_NEW_LINE_AFTER_LEFT_BRACE" value="true" />
-  </Python>
+  </MultiMarkdownCodeStyleSettings>
+  <PHPCodeStyleSettings>
+    <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
+    <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
+    <option name="ALIGN_PHPDOC_COMMENTS" value="true" />
+    <option name="ALIGN_ASSIGNMENTS" value="true" />
+    <option name="PHPDOC_BLANK_LINE_BEFORE_TAGS" value="true" />
+    <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
+  </PHPCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
@@ -29,6 +29,12 @@
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
     </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="PHP">
+    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
+    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+    <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
+    <option name="SPACE_AROUND_UNARY_OPERATOR" value="true" />
   </codeStyleSettings>
   <codeStyleSettings language="SASS">
     <indentOptions>
