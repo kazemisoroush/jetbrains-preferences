@@ -9,8 +9,8 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="baa6c6a4-b06e-4f7d-b88d-fbffb3163ad5" name="mahandid" url="http://mahandidar.ir">
-        <fileTransfer host="37.187.148.144" port="21" rootFolder="/domains/mahandidar.ir/public_html" password="dff9dfc5dfd8dfc5dfdfdfd9dfc2dfc1dfcbdfd0dfcfdfc7dfc3dff5df8bdf89df89df93" username="mahandid">
+      <webServer id="baa6c6a4-b06e-4f7d-b88d-fbffb3163ad5" name="mahandid" url="http://37.187.148.144">
+        <fileTransfer host="37.187.148.144" port="21" rootFolder="/domains/mahandidar.ir/public_html" password="dff9dfc3dfc4dfcbdfc1dfcbdfd0dfcfdfc7dfc3dff5df9bdf99df9cdf93" username="mahandid">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
