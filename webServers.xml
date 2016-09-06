@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="b8795ae5-229c-483e-9e67-12bfe9719cfe" name="haftshahr" url="http://ftp.haftshahraria.com">
-        <fileTransfer host="ftp.haftshahraria.com" port="21" password="dff9dfc3dfc4dfcbdfc1dfcbdfd0dfcfdfc7dfc3dff5df9bdf99df9cdf93" username="soroush@haftshahraria.com">
+        <fileTransfer host="ftp.haftshahraria.com" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -10,7 +10,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="baa6c6a4-b06e-4f7d-b88d-fbffb3163ad5" name="mahandidar" url="http://ftp.mahandidar.ir">
-        <fileTransfer host="ftp.mahandidar.ir" port="21" rootFolder="/domains/mahandidar.ir/public_html" password="dff9dfc3dfc4dfcbdfc1dfcbdfd0dfcfdfc7dfc3dff5df9bdf99df9cdf93" username="mahandid">
+        <fileTransfer host="ftp.mahandidar.ir" port="21" rootFolder="/domains/mahandidar.ir/public_html">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" showHiddenFiles="true" />
           </advancedOptions>
@@ -18,5 +18,8 @@
         </fileTransfer>
       </webServer>
     </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAABQKD1gB8HMIruriTI1gHjKSDXPhTeZVrl0j7PGAJCOZoK0+ZjEGzuQxGJPpk80Bu3OvHs7BPAFc4rsC8sJztUsDcxBTsdwaz+D2rOlPOsjVha836E/iAokRq169ddIy2EQ4YdBtbuvAXzx6lJTn/1QFBMZlyRV47vUYcbPleg7Yo6zqGdSrxiZBZXpEYHZGx6gNMuziY/bASvCHwx+IOw1nk17f8NPIDb/W8PzZjJihQSwtMpNI07R6vxmNt+GrkXgbwbOqYhdpUQw+bnN/B3e/bRi4LZopZ0tHGubvphnafnSw+jsSKOCNHbwdkaR+D2Orgyy3LotTM9c3xjqkUk1oh5MmbtL/tx4OLoGsRcSvYY367xktUEoVSY1pfiQ1sCYDdOf/N6J9SShfA63FQUywJClx/Jg7kLgvPa3aJwSshRGjaDzCC+5QXDSDnYd2fT/w==</data>
   </component>
 </application>
