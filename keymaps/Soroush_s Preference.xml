@@ -29,7 +29,9 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
-  <action id="FindInPath" />
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="ctrl meta f" />
+  </action>
   <action id="Git.Push">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
@@ -66,6 +68,7 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="ToggleFullScreen" />
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
